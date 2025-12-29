@@ -337,6 +337,13 @@ span.skills {
 }
 
 /* Projects */
+
+.live-demo-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
 .projects {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
